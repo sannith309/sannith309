@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sannith309
-- 👀 I’m interested in creating a web page
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in devloping
+- 🌱 I’m currently learning Testing
 - 💞️ I’m looking to collaborate on team  
 - 📫 How to reach me by sannithkokkula039@gmail.com
 
